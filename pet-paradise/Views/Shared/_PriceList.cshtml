@@ -1,0 +1,20 @@
+﻿@{ 
+    Layout = null;
+}
+
+@model Dictionary<string, int> 
+
+<div class="pricelist">
+    <div>
+        <h2>Prices</h2>
+
+        <ul>
+            @foreach (KeyValuePair<string, int> kvp in Model)
+            {
+                <li>
+                    <p>@kvp.Key: @kvp.Value</p>
+                </li>
+            }
+        </ul>
+    </div>
+</div>

@@ -1,0 +1,92 @@
+D:\windows filer\backend\øvelser fra undervisning\mandatory\pet-paradise - Copy\pet-paradise\bin\ApplicationInsights.config
+D:\windows filer\backend\øvelser fra undervisning\mandatory\pet-paradise - Copy\pet-paradise\bin\roslyn\csc.exe
+D:\windows filer\backend\øvelser fra undervisning\mandatory\pet-paradise - Copy\pet-paradise\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\windows filer\backend\øvelser fra undervisning\mandatory\pet-paradise - Copy\pet-paradise\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\windows filer\backend\øvelser fra undervisning\mandatory\pet-paradise - Copy\pet-paradise\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\windows filer\backend\øvelser fra undervisning\mandatory\pet-paradise - Copy\pet-paradise\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\windows filer\backend\øvelser fra undervisning\mandatory\pet-paradise - Copy\pet-paradise\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\windows filer\backend\øvelser fra undervisning\mandatory\pet-paradise - Copy\pet-paradise\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\windows filer\backend\øvelser fra undervisning\mandatory\pet-paradise - Copy\pet-paradise\bin\roslyn\System.Collections.Immutable.dll
+D:\windows filer\backend\øvelser fra undervisning\mandatory\pet-paradise - Copy\pet-paradise\bin\roslyn\System.Reflection.Metadata.dll
+D:\windows filer\backend\øvelser fra undervisning\mandatory\pet-paradise - Copy\pet-paradise\bin\roslyn\vbc.exe
+D:\windows filer\backend\øvelser fra undervisning\mandatory\pet-paradise - Copy\pet-paradise\bin\roslyn\VBCSCompiler.exe
+D:\windows filer\backend\øvelser fra undervisning\mandatory\pet-paradise - Copy\pet-paradise\bin\roslyn\VBCSCompiler.exe.config
+D:\windows filer\backend\øvelser fra undervisning\mandatory\pet-paradise - Copy\pet-paradise\bin\pet-paradise.dll.config
+D:\windows filer\backend\øvelser fra undervisning\mandatory\pet-paradise - Copy\pet-paradise\bin\pet-paradise.dll
+D:\windows filer\backend\øvelser fra undervisning\mandatory\pet-paradise - Copy\pet-paradise\bin\pet-paradise.pdb
+D:\windows filer\backend\øvelser fra undervisning\mandatory\pet-paradise - Copy\pet-paradise\bin\Microsoft.AI.Agent.Intercept.dll
+D:\windows filer\backend\øvelser fra undervisning\mandatory\pet-paradise - Copy\pet-paradise\bin\Microsoft.AI.DependencyCollector.dll
+D:\windows filer\backend\øvelser fra undervisning\mandatory\pet-paradise - Copy\pet-paradise\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\windows filer\backend\øvelser fra undervisning\mandatory\pet-paradise - Copy\pet-paradise\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\windows filer\backend\øvelser fra undervisning\mandatory\pet-paradise - Copy\pet-paradise\bin\Microsoft.AI.Web.dll
+D:\windows filer\backend\øvelser fra undervisning\mandatory\pet-paradise - Copy\pet-paradise\bin\Microsoft.AI.WindowsServer.dll
+D:\windows filer\backend\øvelser fra undervisning\mandatory\pet-paradise - Copy\pet-paradise\bin\Microsoft.ApplicationInsights.dll
+D:\windows filer\backend\øvelser fra undervisning\mandatory\pet-paradise - Copy\pet-paradise\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\windows filer\backend\øvelser fra undervisning\mandatory\pet-paradise - Copy\pet-paradise\bin\Microsoft.Web.Infrastructure.dll
+D:\windows filer\backend\øvelser fra undervisning\mandatory\pet-paradise - Copy\pet-paradise\bin\System.Web.Helpers.dll
+D:\windows filer\backend\øvelser fra undervisning\mandatory\pet-paradise - Copy\pet-paradise\bin\System.Web.Mvc.dll
+D:\windows filer\backend\øvelser fra undervisning\mandatory\pet-paradise - Copy\pet-paradise\bin\System.Web.Razor.dll
+D:\windows filer\backend\øvelser fra undervisning\mandatory\pet-paradise - Copy\pet-paradise\bin\System.Web.Webpages.Deployment.dll
+D:\windows filer\backend\øvelser fra undervisning\mandatory\pet-paradise - Copy\pet-paradise\bin\System.Web.Webpages.dll
+D:\windows filer\backend\øvelser fra undervisning\mandatory\pet-paradise - Copy\pet-paradise\bin\System.Web.Webpages.Razor.dll
+D:\windows filer\backend\øvelser fra undervisning\mandatory\pet-paradise - Copy\pet-paradise\bin\Microsoft.AI.DependencyCollector.xml
+D:\windows filer\backend\øvelser fra undervisning\mandatory\pet-paradise - Copy\pet-paradise\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\windows filer\backend\øvelser fra undervisning\mandatory\pet-paradise - Copy\pet-paradise\bin\Microsoft.AI.Web.xml
+D:\windows filer\backend\øvelser fra undervisning\mandatory\pet-paradise - Copy\pet-paradise\bin\Microsoft.AI.WindowsServer.xml
+D:\windows filer\backend\øvelser fra undervisning\mandatory\pet-paradise - Copy\pet-paradise\bin\Microsoft.ApplicationInsights.xml
+D:\windows filer\backend\øvelser fra undervisning\mandatory\pet-paradise - Copy\pet-paradise\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\windows filer\backend\øvelser fra undervisning\mandatory\pet-paradise - Copy\pet-paradise\bin\System.Web.Razor.xml
+D:\windows filer\backend\øvelser fra undervisning\mandatory\pet-paradise - Copy\pet-paradise\bin\System.Web.Webpages.xml
+D:\windows filer\backend\øvelser fra undervisning\mandatory\pet-paradise - Copy\pet-paradise\bin\System.Web.Webpages.Deployment.xml
+D:\windows filer\backend\øvelser fra undervisning\mandatory\pet-paradise - Copy\pet-paradise\bin\System.Web.Webpages.Razor.xml
+D:\windows filer\backend\øvelser fra undervisning\mandatory\pet-paradise - Copy\pet-paradise\bin\System.Web.Helpers.xml
+D:\windows filer\backend\øvelser fra undervisning\mandatory\pet-paradise - Copy\pet-paradise\bin\System.Web.Mvc.xml
+D:\windows filer\backend\øvelser fra undervisning\mandatory\pet-paradise - Copy\pet-paradise\obj\Debug\pet-paradise.csprojResolveAssemblyReference.cache
+D:\windows filer\backend\øvelser fra undervisning\mandatory\pet-paradise - Copy\pet-paradise\obj\Debug\pet-paradise.dll
+D:\windows filer\backend\øvelser fra undervisning\mandatory\pet-paradise - Copy\pet-paradise\obj\Debug\pet-paradise.pdb
+D:\windows filer\backend\øvelser fra undervisning\mandatory\pet-paradise\pet-paradise\bin\ApplicationInsights.config
+D:\windows filer\backend\øvelser fra undervisning\mandatory\pet-paradise\pet-paradise\bin\roslyn\csc.exe
+D:\windows filer\backend\øvelser fra undervisning\mandatory\pet-paradise\pet-paradise\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\windows filer\backend\øvelser fra undervisning\mandatory\pet-paradise\pet-paradise\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\windows filer\backend\øvelser fra undervisning\mandatory\pet-paradise\pet-paradise\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\windows filer\backend\øvelser fra undervisning\mandatory\pet-paradise\pet-paradise\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\windows filer\backend\øvelser fra undervisning\mandatory\pet-paradise\pet-paradise\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\windows filer\backend\øvelser fra undervisning\mandatory\pet-paradise\pet-paradise\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\windows filer\backend\øvelser fra undervisning\mandatory\pet-paradise\pet-paradise\bin\roslyn\System.Collections.Immutable.dll
+D:\windows filer\backend\øvelser fra undervisning\mandatory\pet-paradise\pet-paradise\bin\roslyn\System.Reflection.Metadata.dll
+D:\windows filer\backend\øvelser fra undervisning\mandatory\pet-paradise\pet-paradise\bin\roslyn\vbc.exe
+D:\windows filer\backend\øvelser fra undervisning\mandatory\pet-paradise\pet-paradise\bin\roslyn\VBCSCompiler.exe
+D:\windows filer\backend\øvelser fra undervisning\mandatory\pet-paradise\pet-paradise\bin\roslyn\VBCSCompiler.exe.config
+D:\windows filer\backend\øvelser fra undervisning\mandatory\pet-paradise\pet-paradise\bin\pet-paradise.dll.config
+D:\windows filer\backend\øvelser fra undervisning\mandatory\pet-paradise\pet-paradise\bin\pet-paradise.dll
+D:\windows filer\backend\øvelser fra undervisning\mandatory\pet-paradise\pet-paradise\bin\pet-paradise.pdb
+D:\windows filer\backend\øvelser fra undervisning\mandatory\pet-paradise\pet-paradise\bin\Microsoft.AI.Agent.Intercept.dll
+D:\windows filer\backend\øvelser fra undervisning\mandatory\pet-paradise\pet-paradise\bin\Microsoft.AI.DependencyCollector.dll
+D:\windows filer\backend\øvelser fra undervisning\mandatory\pet-paradise\pet-paradise\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\windows filer\backend\øvelser fra undervisning\mandatory\pet-paradise\pet-paradise\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\windows filer\backend\øvelser fra undervisning\mandatory\pet-paradise\pet-paradise\bin\Microsoft.AI.Web.dll
+D:\windows filer\backend\øvelser fra undervisning\mandatory\pet-paradise\pet-paradise\bin\Microsoft.AI.WindowsServer.dll
+D:\windows filer\backend\øvelser fra undervisning\mandatory\pet-paradise\pet-paradise\bin\Microsoft.ApplicationInsights.dll
+D:\windows filer\backend\øvelser fra undervisning\mandatory\pet-paradise\pet-paradise\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\windows filer\backend\øvelser fra undervisning\mandatory\pet-paradise\pet-paradise\bin\Microsoft.Web.Infrastructure.dll
+D:\windows filer\backend\øvelser fra undervisning\mandatory\pet-paradise\pet-paradise\bin\System.Web.Helpers.dll
+D:\windows filer\backend\øvelser fra undervisning\mandatory\pet-paradise\pet-paradise\bin\System.Web.Mvc.dll
+D:\windows filer\backend\øvelser fra undervisning\mandatory\pet-paradise\pet-paradise\bin\System.Web.Razor.dll
+D:\windows filer\backend\øvelser fra undervisning\mandatory\pet-paradise\pet-paradise\bin\System.Web.Webpages.Deployment.dll
+D:\windows filer\backend\øvelser fra undervisning\mandatory\pet-paradise\pet-paradise\bin\System.Web.Webpages.dll
+D:\windows filer\backend\øvelser fra undervisning\mandatory\pet-paradise\pet-paradise\bin\System.Web.Webpages.Razor.dll
+D:\windows filer\backend\øvelser fra undervisning\mandatory\pet-paradise\pet-paradise\bin\Microsoft.AI.DependencyCollector.xml
+D:\windows filer\backend\øvelser fra undervisning\mandatory\pet-paradise\pet-paradise\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\windows filer\backend\øvelser fra undervisning\mandatory\pet-paradise\pet-paradise\bin\Microsoft.AI.Web.xml
+D:\windows filer\backend\øvelser fra undervisning\mandatory\pet-paradise\pet-paradise\bin\Microsoft.AI.WindowsServer.xml
+D:\windows filer\backend\øvelser fra undervisning\mandatory\pet-paradise\pet-paradise\bin\Microsoft.ApplicationInsights.xml
+D:\windows filer\backend\øvelser fra undervisning\mandatory\pet-paradise\pet-paradise\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\windows filer\backend\øvelser fra undervisning\mandatory\pet-paradise\pet-paradise\bin\System.Web.Razor.xml
+D:\windows filer\backend\øvelser fra undervisning\mandatory\pet-paradise\pet-paradise\bin\System.Web.Webpages.xml
+D:\windows filer\backend\øvelser fra undervisning\mandatory\pet-paradise\pet-paradise\bin\System.Web.Webpages.Deployment.xml
+D:\windows filer\backend\øvelser fra undervisning\mandatory\pet-paradise\pet-paradise\bin\System.Web.Webpages.Razor.xml
+D:\windows filer\backend\øvelser fra undervisning\mandatory\pet-paradise\pet-paradise\bin\System.Web.Helpers.xml
+D:\windows filer\backend\øvelser fra undervisning\mandatory\pet-paradise\pet-paradise\bin\System.Web.Mvc.xml
+D:\windows filer\backend\øvelser fra undervisning\mandatory\pet-paradise\pet-paradise\obj\Debug\pet-paradise.dll
+D:\windows filer\backend\øvelser fra undervisning\mandatory\pet-paradise\pet-paradise\obj\Debug\pet-paradise.pdb
+D:\windows filer\backend\øvelser fra undervisning\mandatory\pet-paradise\pet-paradise\obj\Debug\pet-paradise.csprojResolveAssemblyReference.cache

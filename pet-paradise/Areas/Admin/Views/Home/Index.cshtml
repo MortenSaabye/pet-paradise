@@ -1,0 +1,24 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div>
+        <a href="/">Front page</a>
+        <h1>Pet Paradise Hotel</h1>
+        <ul>
+            <li>@Html.ActionLink("Show Reservations", "index", "Reservations")</li>
+            <li>@Html.ActionLink("Show Invoices", "index", "Invoices")</li>
+            <li>@Html.ActionLink("Show Prices", "index", "Prices")</li>
+            <li>@Html.ActionLink("Show Employees", "index", "Employee")</li>
+        </ul>
+    </div>
+</body>
+</html>

@@ -1,0 +1,18 @@
+﻿@{ 
+    Layout = null;
+}
+@model Dictionary<string, string>
+
+<div class="opening-hours">
+    <div>
+        <h2>Opening Hours</h2>
+        <ul>
+            @foreach (KeyValuePair<string, string> kvp in Model)
+            {
+                <li>
+                    <p>@kvp.Key: @kvp.Value</p>
+                </li>
+            }
+        </ul>
+    </div>
+</div>

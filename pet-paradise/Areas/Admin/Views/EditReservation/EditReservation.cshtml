@@ -1,0 +1,10 @@
+﻿@model pet_paradise.Models.Reservation
+
+<h2>You have updated a reservation!</h2>
+<p>for: @Model.PetName</p>
+<p>specie: @Model.Specie</p>
+<p>customer name: @Model.Customer.Firstname</p>
+<p>employee name: @Model.Employee.Firstname</p>
+<p>Arrival date: @Model.StartDate</p>
+<p>Departure date: @Model.EndDate</p>
+<a href="@Url.Action("Index", "Home")">Go back</a>

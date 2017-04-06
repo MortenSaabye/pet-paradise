@@ -1,0 +1,28 @@
+﻿@using pet_paradise.Models
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div> 
+        @Html.ActionLink("Home", "index", "Home")
+        @foreach(Employee e in ViewBag.Employees)
+        {
+            <p>@e.Firstname @e.Lastname</p>
+            <p>@e.Initials</p>
+            <p>@e.Address</p>
+            <p>@e.Zipcode</p>
+            <p>@e.City</p>
+            <p>@e.Phone</p>
+            <hr />
+        }
+    </div>
+</body>
+</html>

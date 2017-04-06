@@ -1,0 +1,32 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+<div class="about-banner">
+    <div>
+        <h1>Welcome to the Pet Paradise Hotel</h1>
+        <h4>It's a paradise for pets!</h4>
+    </div>
+</div>
+<div class="about-content center">
+    <h2>About us</h2>
+    <p>At Pet Paradise Resort and Day Spa®, we offer the ultimate pet boarding experience for your dog or cat.</p>
+    <p>
+        Our attentive staff is passionate about pets and will go the extra mile to ensure that your pet has
+        a safe and enjoyable time with us.
+    </p> 
+    <p>
+        Our resort locations are uniquely tailored to meet all of your pet's desires.
+        Whether it's making a splash in our signature bone-shaped pool or relaxing at storytime, Pet Paradise promises to
+        create a memorable stay for your pet.
+    </p> 
+    <p>
+        In addition, our four-legged guests can indulge in a day of excitement and
+        adventure at day camp or have a spa day and receive a fresh, new look by one of our professional groomers.
+    </p>
+    <p>Your furry companion is waiting to discover new friendships in paradise.</p>
+</div>
+<hr />
+@section OpeningHours {
+    @Html.Action("Hours", "Tools")
+}

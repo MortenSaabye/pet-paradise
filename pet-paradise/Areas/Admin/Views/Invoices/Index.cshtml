@@ -1,0 +1,46 @@
+﻿@using pet_paradise.Models
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Invoices</title>
+</head>
+<body>
+    <div>
+        @Html.ActionLink("Home", "index", "Home")
+        <h1>Invoices</h1>
+        @using (Html.BeginForm())
+        {
+            @Html.DropDownList("Customers");
+            <input type="submit" value="Get invoices" />
+        }
+        @if (ViewBag.Reservations != null)
+        {
+            foreach (Reservation reservation in ViewBag.Reservations)
+            {
+                TimeSpan days = reservation.EndDate - reservation.StartDate;
+                int price = ViewBag.Repository.Prices[reservation.Specie];
+                int totalPrice = Convert.ToInt32(days.TotalDays) * price;
+                <p>@reservation.Customer.Firstname @reservation.Customer.Lastname</p>
+                <p>@reservation.Customer.Address</p>
+                <p>@reservation.Customer.Zipcode</p>
+                <p>@reservation.Customer.City</p>
+                <br />
+                <p>Species: @reservation.Specie</p>
+                <p>Name: @reservation.PetName</p>
+                <p>Received By: @reservation.Employee.Firstname @reservation.Employee.Lastname</p>
+                <p>Period: @reservation.StartDate.ToString("dd-MM-yyyy") to @reservation.EndDate.ToString("dd-MM-yyyy")</p>
+                <p>Days: @days.TotalDays</p>
+                <p>Price: @price kr. per. day</p>
+                <p>Total: @totalPrice kr</p>
+                <hr />
+            }
+        }
+    </div>
+</body>
+</html>

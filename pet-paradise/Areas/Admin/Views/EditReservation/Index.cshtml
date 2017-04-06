@@ -1,0 +1,35 @@
+﻿@model pet_paradise.Models.Reservation
+@{
+    Layout = null;
+}
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Edit reservation</title>
+</head>
+<body>
+    <div>
+        <h2>Edit a reservation</h2>
+        @using (Html.BeginForm("EditReservation", "EditReservation"))
+        {
+            <p>@Html.LabelFor(x => x.Customer)</p>
+            @Html.DropDownList("Customers")
+            <p>@Html.LabelFor(x => x.Specie)</p>
+            @Html.DropDownList("Species")
+            <p>@Html.LabelFor(x => x.StartDate)</p>
+            @Html.EditorFor(x => x.StartDate)
+            <p>@Html.LabelFor(x => x.EndDate)</p>
+            @Html.EditorFor(x => x.EndDate, new { @Value = ViewBag.EndDate })
+            <p>@Html.LabelFor(x => x.PetName)</p>
+            @Html.EditorFor(x => x.PetName, new { @value = Model.PetName })
+            <p>@Html.LabelFor(x => x.Employee)</p>
+            @Html.DropDownList("Employees")
+            @Html.HiddenFor(x => x.ReservationID)
+            <br />
+            <input type="submit" value="Update Reservation" />
+        }
+</div>
+</body>
+</html>

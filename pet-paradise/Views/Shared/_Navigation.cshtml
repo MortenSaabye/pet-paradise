@@ -1,0 +1,13 @@
+﻿@model string[]
+@{ 
+    Layout = null;
+}
+
+
+<ul>
+@foreach(string navItem in Model)
+{
+    <li>@Html.ActionLink(navItem, "Index", navItem)</li>
+}
+    <li>@Html.ActionLink("Admin", "Index", "Home", new { area = "Admin" },null)</li>
+</ul>

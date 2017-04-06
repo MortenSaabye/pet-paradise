@@ -1,0 +1,76 @@
+﻿@model pet_paradise.Models.Reservation
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2 class="center">Make a new reservation</h2>
+@using (Html.BeginForm("CreateReservation", "Reservation"))
+{
+    <div>
+        <p>@Html.LabelFor(x => x.Customer)</p>
+        @Html.DropDownList("Customers")
+    </div>
+    <div>
+        <p>@Html.LabelFor(x => x.Specie)</p>
+        @Html.DropDownList("Species")
+    </div>
+    <div>
+        <p>@Html.LabelFor(x => x.StartDate)</p>
+        @Html.EditorFor(x => x.StartDate)
+    </div>
+    <div>
+        <p>@Html.LabelFor(x => x.EndDate)</p>
+        @Html.EditorFor(x => x.EndDate)
+    </div>
+    <div>
+        <p>@Html.LabelFor(x => x.PetName)</p>
+        @Html.EditorFor(x => x.PetName)
+    </div>
+    <div>
+        <p>@Html.LabelFor(x => x.Employee)</p>
+        @Html.DropDownList("Employees")
+    </div>
+    <br />
+    <input type="submit" value="Create Reservation"/>
+}
+
+<hr />
+<div class="center">
+    <h4>Can't find the customer?</h4>
+    <h2>Create a new customer</h2>
+</div>
+
+@using (Html.BeginForm())
+{
+    <div>
+        <p>@Html.LabelFor(x => x.Customer.Firstname)</p>
+        @Html.EditorFor(x => x.Customer.Firstname)
+    </div>
+    <div>
+        <p>@Html.LabelFor(x => x.Customer.Lastname)</p>
+        @Html.EditorFor(x => x.Customer.Lastname)
+    </div>
+    <div>
+        <p>@Html.LabelFor(x => x.Customer.Address)</p>
+        @Html.EditorFor(x => x.Customer.Address)
+    </div>
+    <div>
+        <p>@Html.LabelFor(x => x.Customer.Zipcode)</p>
+        @Html.EditorFor(x => x.Customer.Zipcode)
+    </div>
+    <div>
+        <p>@Html.LabelFor(x => x.Customer.City)</p>
+        @Html.EditorFor(x => x.Customer.City)
+    </div>
+    <div>
+        <p>@Html.LabelFor(x => x.Customer.Email)</p>
+        @Html.EditorFor(x => x.Customer.Email)
+    </div>
+    <div>
+        <p>@Html.LabelFor(x => x.Customer.Phone)</p>
+        @Html.EditorFor(x => x.Customer.Phone)
+    </div>
+    <br />
+    <input type="submit" value="Create Customer" />
+}

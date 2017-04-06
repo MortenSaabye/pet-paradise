@@ -1,0 +1,22 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+<div class="services-banner">
+    <div>
+        <h1>Services</h1>
+        <h4>The services we provide</h4>
+    </div>
+</div>
+<div class="services-content center">
+    <h2>This is what we do!</h2>
+    <p>
+        Posh Pet Hotel provides our boarding pet guests with the highest quality of comfort and care, offering 103 custom rooms for your pampered pooch or puss.  Every meticulous detail has been included so your pet will enjoy a safe, fun, and relaxing stay while boarding with us.  Our staff is highly trained so relax knowing your pet is safe in our home away from home.
+        To ensure your pet has an unrivaled experience, our facility is staffed 24 hours a day, every day of the year.  All rooms have purified air and water included.
+    </p>
+</div>
+<hr />
+
+@section Pricelist {
+    @Html.Action("PriceList", "Tools")
+}

@@ -1,0 +1,125 @@
+﻿body {
+    font-family: 'Roboto', sans-serif;
+}
+.center {
+    text-align:center;
+}
+.wrapper {
+    max-width: 1000px;
+    margin:auto;
+}
+nav {
+    display: flex;
+}
+
+nav ul {
+    display: flex;
+    align-items:center;
+    flex-grow: 1; 
+    justify-content:flex-end;
+}
+
+nav ul li {
+    display:inline;
+    margin-left: 20px;
+}
+
+nav ul li a {
+    text-decoration:none;
+    color: #000000;
+    padding: 5px;
+    border-radius: 3px; 
+}
+
+nav ul li a:hover{
+    color: white;
+    background-color: #00A9A8;
+}
+.about-banner, .services-banner {
+    background-position: center;
+    height: 250px;
+    padding: 30px;
+    color: white;
+    display: flex;
+    align-items: center;
+}
+.about-banner{
+    background: linear-gradient(rgba(0, 169, 168, 0.4), rgba(0, 169, 168, 0.4)), url(/Images/banner.jpg);
+}
+.services-banner{
+    background: linear-gradient(rgba(0, 169, 168, 0.4), rgba(0, 169, 168, 0.4)), url(/Images/header-services.jpg);
+}
+.about-content, .services-content {
+    max-width: 600px;
+    margin: auto;
+}
+
+.opening-hours, .pricelist {
+    text-align: center;
+}
+.map {
+    width: 100%;
+}
+
+.opening-hours div, .pricelist div {
+    background-color: #00A9A8;
+    color: white;
+    width: 20%;
+    margin:auto;
+    padding: 10px;
+    margin-top: 40px;
+    border-radius: 10px;
+}
+.opening-hours ul, .pricelist ul {
+    list-style:none;
+    padding: 0;
+}
+
+.opening-hours ul li p, .pricelist ul li p {
+    margin-bottom:0;
+    margin-top:5px;
+}
+
+form{
+    display:flex;
+    max-width:600px;
+    flex-wrap:wrap;
+    margin:auto;
+}
+form div {
+    width: calc(50% - 20px );
+    padding: 10px;
+}
+form div > * {
+    width: 100%;
+}
+form div p {
+    margin-bottom: 0px;
+    font-size:0.9em;
+}
+input[type=submit]{
+    margin:auto;
+    background-color: #00A9A8;
+    color:white;
+    margin-top:20px;
+}
+
+input, select {
+    border: 2px solid #00A9A8;
+    border-radius: 3px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    box-sizing:border-box;
+}
+
+footer{
+    align-items:baseline;
+    display:flex;
+    padding: 20px;
+    margin-top: 30px;
+    background-color: #eee;
+    color: #aaa;
+}
+footer div {
+    flex-grow: 1;
+}

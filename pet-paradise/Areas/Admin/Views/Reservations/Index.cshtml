@@ -1,0 +1,26 @@
+﻿@using pet_paradise.Models
+    <div>
+        @Html.ActionLink("Home", "index", "Home")
+        <h1>Reservations</h1>
+        <table>
+            <tr>
+                <th>Species</th>
+                <th>Name</th>
+                <th>Arrival</th>
+                <th>Owner</th>
+                <th>Phone</th>
+                <th>Edit reservation</th>
+            </tr>
+        @foreach (Reservation reservation in ViewBag.Repository.Reservations)
+        {
+            <tr>
+                <td>@reservation.Specie</td>
+                <td>@reservation.PetName</td>
+                <td>@reservation.StartDate.ToString("dd-MM-yyyy")</td>
+                <td>@reservation.Customer.Firstname @reservation.Customer.Lastname</td>
+                <td>@reservation.Customer.Phone</td>
+                <td>@Html.ActionLink("Edit Reservation", "Index", "EditReservation", new { reservationID = @reservation.ReservationID }, null)</td>
+            </tr>
+        }
+        </table>
+    </div>
